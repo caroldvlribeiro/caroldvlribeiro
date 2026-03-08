@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**caroldvlribeiro/caroldvlribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou a Carol
 
-Here are some ideas to get you started:
+🎓 Estudante de **Desenvolvimento de Software** pela **FATEC**
+💻 Interessada em **desenvolvimento web e programação**
+📚 Atualmente estudando e aprimorando minhas habilidades em programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que conheço
+
+* **HTML**
+* **CSS**
+* **PHP** (em aprendizado)
+* **Java** (em aprendizado)
+* **C++** (em aprendizado)
+
+---
+
+## 📚 Atualmente estudando
+
+No momento estou focando em:
+
+* Programação Orientada a Objetos
+* Desenvolvimento Back-end
+* Estruturação de projetos
+* Boas práticas de programação
+
+---
+
+## 🛠 Projetos
+
+Aqui no meu GitHub você vai encontrar projetos de:
+
+* Exercícios da faculdade
+* Projetos de estudo
+* Sistemas web simples
+* Experimentos com novas tecnologias
+
+---
+
+⭐ Obrigada por visitar meu perfil!
+
